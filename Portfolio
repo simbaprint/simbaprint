@@ -1,0 +1,17 @@
+<section id="portfolio">
+  <h2>Portfolio</h2>
+  <div class="gallery">
+    <div class="item">
+      <img src="logo.jpg" alt="Vintage Logo Design">
+      <p>Vintage Logo Design</p>
+    </div>
+    <div class="item">
+      <img src="flyer.jpg" alt="Retro Flyer Design">
+      <p>Retro Flyer Design</p>
+    </div>
+    <div class="item">
+      <img src="business-card.jpg" alt="Classic Business Card">
+      <p>Classic Business Card</p>
+    </div>
+  </div>
+</section>
